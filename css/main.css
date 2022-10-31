@@ -17,12 +17,12 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: rgb(247, 235, 190);
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: rgb(247, 235, 190);
     overflow: auto;
 }
 
@@ -42,7 +42,7 @@ a {
 }
 
 a:hover {
-    color: whitesmoke;
+    color: rgb(247, 235, 190);
     background-color: rgb(192, 222, 244);
     text-decoration: none;
 }
