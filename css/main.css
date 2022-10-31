@@ -42,7 +42,7 @@ a {
 }
 
 a:hover {
-    color: rgb(247, 235, 190);
+    color: rgb(255, 247, 221);
     background-color: rgb(192, 222, 244);
     text-decoration: none;
 }
