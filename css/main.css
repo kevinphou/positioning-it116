@@ -4,7 +4,7 @@
 
 html {
     background-color: rgb(192, 222, 244);
-    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Archivo Narrow', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -20,6 +20,12 @@ h1 {
     background: rgb(255, 247, 221);
     line-height: 2.5em;
 }
+
+/* Adds google font to h1 for main pages */
+h1.page-header{
+    font-family: 'Space Mono' ,serif;
+}
+
 
 main.wrapper {
     background-color: rgb(255, 247, 221);
