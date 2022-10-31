@@ -17,12 +17,12 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: rgb(247, 235, 190);
+    background: rgb(255, 247, 221);
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: rgb(247, 235, 190);
+    background-color: rgb(255, 247, 221);
     overflow: auto;
 }
 
