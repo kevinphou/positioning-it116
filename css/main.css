@@ -3,7 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: rgb(192, 222, 244);
+    background-image: url(../images/istockphoto-1251467683-170667a.jpeg);
+    /* background-color: rgb(192, 222, 244); */
     font-family: 'Archivo Narrow', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
