@@ -1,6 +1,6 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
 
 html {
     background-image: url(../images/istockphoto-1251467683-170667a.jpeg);
@@ -63,7 +63,7 @@ footer {
 /* Responsive rules */
 
 /* DESKTOP */
-@media all and (min-width:1200px) {
+@media all and (min-width:1000px) {
     main.wrapper {
         width: 80%;
         margin: auto;
